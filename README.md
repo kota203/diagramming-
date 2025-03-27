@@ -46,7 +46,3 @@ The Mermaid extension in VS Code leverages Mermaid syntax to create diagrams suc
 1. Install the Mermaid extension in VS Code.
 2. Write your diagram structure using Mermaid syntax.
 3. Render and view the diagrams interactively.
-
----
-
-Feel free to customize this template further to suit your needs or let me know if you need help refining specific sections!
